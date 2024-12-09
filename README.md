@@ -44,3 +44,19 @@ Building tools:
 ### My soft skills
 During my work, I am always ready to help my colleagues and support the team. I have experience of discussing architectural and business questions with product managers and other colleagues of mine.
 I always worked with flexible Agile development methodologies and was always ready to cooperate with other team members to complete the tasks.
+
+### My work experience
+## SENLA (2022 - present)
+# Employee skills tracker
+Stack: Java, Spring Boot, Spring Data JPA, Spring Security, Lombok, PostgreSQL, MongoDB, Liquibase, REST, GraphQL, JUnit 5, Mockito 
+- Participated in the planning of the system's architecture and design
+- Participated in implementing business logic for the statistics microservice. 
+- Wrote MongoDB migrations with Liquibase
+- Actively participated in code refactoring and bug fixing
+- Wrote Unit tests
+# Bank module application
+Stack: Java, Spring, JDBCTemplate, OracleDB, Liquibase, Lombok, REST, SOAP, Apache CXF
+- Participated in the planning of the system's design
+- Participated in business analysis of several features
+- Implemented various business features
+- Actively participated in code refactoring and bug fixing
