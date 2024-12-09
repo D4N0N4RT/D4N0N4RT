@@ -60,3 +60,7 @@ Stack: Java, Spring, JDBCTemplate, OracleDB, Liquibase, Lombok, REST, SOAP, Apac
 - Participated in business analysis of several features
 - Implemented various business features
 - Actively participated in code refactoring and bug fixing
+
+# My profesional interests
+In my spare time, I like to learn about new technologies and to engage in pet projects involving technologies with which I have limited experience.
+My latest pet project involves working with Spring Kafka working with multiple partitions in topic and an exactly once delivery semantics guarantee 
